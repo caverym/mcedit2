@@ -55,3 +55,6 @@ src/mcedit2/ui/**/*.py
 env-av
 MCEdit 2 Files
 .pyupdater
+
+# I hate you vscode
+.vscode
