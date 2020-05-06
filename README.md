@@ -1,3 +1,5 @@
+**Looking for anybody who would like to help update this to Mincraft 1.15.x and eventually 1.16.x
+
 [![Build status](https://ci.appveyor.com/api/projects/status/76956gfy2n7sl5me?svg=true)](https://ci.appveyor.com/project/codewarrior0/mcedit2)
 [![Build Status](https://travis-ci.org/mcedit/mcedit2.svg?branch=master)](https://travis-ci.org/mcedit/mcedit2)
 
