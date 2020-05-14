@@ -4,6 +4,7 @@
 from os import path
 
 import sys
+import cython
 from setuptools import setup, find_packages
 from Cython.Build import cythonize
 import numpy
@@ -12,9 +13,9 @@ import numpy
 import Cython.Compiler.Options
 Cython.Compiler.Options.annotate = True
 
-
-with file("version.txt") as f:
-    version = f.read().strip()
+#haha no not today
+#with file("version.txt") as f:
+version = "2ave"
 
 install_requires = [
     "numpy",
